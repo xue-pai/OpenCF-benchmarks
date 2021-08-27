@@ -285,6 +285,39 @@
             "company": "Kuaishou,Alibaba",
             "available": "N",
             "tags": ""
+        },
+        {
+            "year": "2017",
+            "pub": "WWW'17",
+            "model": "CML",
+            "paper": "Collaborative Metric Learning",
+            "authors": "Cheng-Kang Hsieh, Longqi Yang, Yin Cui , Tsung-Yi Lin, Serge Belongie, Deborah Estrin",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3038912.3052639?download=true",
+            "company": "",
+            "available": "N",
+            "tags": ""
+        },
+        {
+            "year": "2018",
+            "pub": "SIGIR'18",
+            "model": "CMN",
+            "paper": "Collaborative Memory Network for Recommendation Systems",
+            "authors": "Travis Ebesu, Bin Shen, Yi Fang",
+            "link": "https://arxiv.org/abs/1804.10862",
+            "company": "Google",
+            "available": "N",
+            "tags": ""
+        },
+        {
+            "year": "2018",
+            "pub": "RecSys'18",
+            "model": "Hop-Rec",
+            "paper": "HOP-rec: high-order proximity for implicit recommendation",
+            "authors": "Jheng-Hong Yang, Chih-Ming Chen, Chuan-Ju Wang, Ming-Feng Tsai",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3240323.3240381",
+            "company": "",
+            "available": "N",
+            "tags": ""
         }
     ]
 }
