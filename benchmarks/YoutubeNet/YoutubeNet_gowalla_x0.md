@@ -35,7 +35,7 @@ Gowalla follows the data split and preprocessing steps in NGCF and LightGCN. We 
     ```
 2. Set the config file and reproduce the result.
     ```python
-        python benchmark.py
+    python benchmark.py
     ```
 ### Results
 ```python
