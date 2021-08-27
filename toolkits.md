@@ -4,7 +4,7 @@ A collection of open-source toolkits for candidate item matching
 
 | Tool                          | Link                                                       | License    |
 |-------------------------------|------------------------------------------------------------|------------|
-| OpenMatch                     | TBA                                                        | TBA        |
+| OpenMatch                     | https://github.com/xue-pai/OpenMatch                       | Apache-2.0 |
 | RecBole                       | https://github.com/RUCAIBox/RecBole                        | MIT        |
 | DeepMatch                     | https://github.com/shenweichen/DeepMatch                   | Apache-2.0 |
 | daisyRec                      | https://github.com/AmazingDD/daisyRec                      | Apache-2.0 |
