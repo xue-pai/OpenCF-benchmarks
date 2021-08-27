@@ -321,7 +321,7 @@
             "ndcg_50": "0.186816",
             "hit_rate_20": "0.592705",
             "hit_rate_50": "0.727242",
-            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/SimpleX/SimpleX_gowalla_x0.json",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/SimpleX/SimpleX_gowalla_x0.md",
             "contr": "XUEPAI"
         },
         {

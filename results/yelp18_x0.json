@@ -347,7 +347,7 @@
             "ndcg_50": "0.080518",
             "hit_rate_20": "0.415151",
             "hit_rate_50": "0.608753",
-            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/SimpleX/SimpleX_yelp18_x0.json",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/SimpleX/SimpleX_yelp18_x0.md",
             "contr": "XUEPAI"
         },
         {
