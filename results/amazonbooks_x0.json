@@ -146,7 +146,7 @@
             "contr": "Reported by NGCF paper"
         }, {
             "year": "2018",
-            "pub": "RecSys'2018",
+            "pub": "RecSys'18",
             "model": "HOP-Rec",
             "recall_20": "0.0309",
             "recall_50": "",
