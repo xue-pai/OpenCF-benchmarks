@@ -35,7 +35,7 @@
             "ndcg_50": "0.1662",
             "hit_rate_20": "0.5544",
             "hit_rate_50": "0.6936",
-            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/MF_BPR/MF_BPR_gowalla_x0.json",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/MF_BPR/MF_BPR_gowalla_x0.md",
             "contr": "XUEPAI"
         },
         {
