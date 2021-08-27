@@ -34,7 +34,7 @@
             "ndcg_50": "0.0380",
             "hit_rate_20": "0.2103",
             "hit_rate_50": "0.3530",
-            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/MF_BPR/MF_BPR_amazoonbooks_x0.json",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/MF_BPR/MF_BPR_amazonbooks_x0.json",
             "contr": "XUEPAI"
         }, {
             "year": "2011",
@@ -342,7 +342,7 @@
             "ndcg_50": "0.0624",
             "hit_rate_20": "0.3030",
             "hit_rate_50": "0.4557",
-            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/SimpleX/SimpleX_amazoonbooks_x0.json",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/SimpleX/SimpleX_amazonbooks_x0.md",
             "contr": "XUEPAI"
         },
         {

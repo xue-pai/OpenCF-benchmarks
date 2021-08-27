@@ -28,8 +28,15 @@ amazonbooks_x0 follows the data split and preprocessing steps in NGCF and LightG
 
 
 ### Code
-
-
+1. Downalod the dataset from LightGCN repo and run the preprocessing script for format transformation
+    ```python
+    cd data/AmazonBooks/amazonbooks_x0
+    python DEEM_data_process.py
+    ```
+2. Set the config file and reproduce the result.
+    ```python
+        python benchmark.py
+    ```
 ### Results
 ```python
 2021-01-03 19:35:34,704 P2834 INFO [Metrics] Recall(k=20): 0.050157 - Recall(k=50): 0.092365 - NDCG(k=20): 0.038842 - NDCG(k=50): 0.054534 - HitRate(k=20): 0.275708 - HitRate(k=50): 0.435419
