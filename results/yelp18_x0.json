@@ -9,7 +9,7 @@
             "ndcg_50": "0.0145",
             "hit_rate_20": "0.0831",
             "hit_rate_50": "0.1493",
-            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/ItemPop/ItemPop_yelp18_x0.md",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/ItemPop/ItemPop_yelp18_x0.md",
             "contr": "Kelong Mao"
         },
         {
@@ -22,7 +22,7 @@
             "ndcg_50": "0.0746",
             "hit_rate_20": "0.3876",
             "hit_rate_50": "0.5753",
-            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/ItemKNN/ItemKNN_yelp18_x0.md",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/ItemKNN/ItemKNN_yelp18_x0.md",
             "contr": "Jinpeng Wang"
         },
         {
@@ -35,7 +35,7 @@
             "ndcg_50": "0.0671",
             "hit_rate_20": "0.3624",
             "hit_rate_50": "0.5577",
-            "link": "",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/MF_BPR/MF_BPR_yelp18_x0.json",
             "contr": "XUEPAI"
         },
         {
@@ -48,7 +48,7 @@
             "ndcg_50": "0.0751",
             "hit_rate_20": "0.3912",
             "hit_rate_50": "0.5799",
-            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/SLIM/SLIM_yelp18_x0.md",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/SLIM/SLIM_yelp18_x0.md",
             "contr": "Kelong Mao"
         },
         {
@@ -61,7 +61,7 @@
             "ndcg_50": "0.0585",
             "hit_rate_20": "0.3267",
             "hit_rate_50": "0.5114",
-            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/Item2Vec/Item2Vec_yelp18_x0.md",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/Item2Vec/Item2Vec_yelp18_x0.md",
             "contr": "Yi Li"
         },
         {
@@ -74,7 +74,7 @@
             "ndcg_50": "0.0738",
             "hit_rate_20": "0.3810",
             "hit_rate_50": "0.5510",
-            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/CML/CML_yelp18_x0.md",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/CML/CML_yelp18_x0.md",
             "contr": "Jinpeng Wang"
         },
         {
@@ -87,7 +87,7 @@
             "ndcg_50": "0.0762",
             "hit_rate_20": "0.3966",
             "hit_rate_50": "0.5839",
-            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/EASE_r/EASE_yelp18_x0.md",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/EASE_r/EASE_yelp18_x0.md",
             "contr": "XUEPAI"
         },
         {
@@ -100,7 +100,7 @@
             "ndcg_50": "0.0723",
             "hit_rate_20": "0.3848",
             "hit_rate_50": "0.5792",
-            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/ENMF/ENMF_yelp18_x0.md",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/ENMF/ENMF_yelp18_x0.md",
             "contr": "Jinpeng Wang"
         },
         {
@@ -139,7 +139,7 @@
             "ndcg_50": "0.0756",
             "hit_rate_20": "0.3974",
             "hit_rate_50": "0.5922",
-            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/LightGCN/LightGCN_TF_yelp18_x0.md",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/LightGCN/LightGCN_TF_yelp18_x0.md",
             "contr": "Yi Li"
         },
         {
@@ -347,7 +347,7 @@
             "ndcg_50": "0.080518",
             "hit_rate_20": "0.415151",
             "hit_rate_50": "0.608753",
-            "link": "",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/SimpleX/SimpleX_yelp18_x0.json",
             "contr": "Reported by SimpleX paper"
         },
         {
@@ -360,7 +360,7 @@
             "ndcg_50": "",
             "hit_rate_20": "",
             "hit_rate_50": "",
-            "link": "",
+            "link": "https://github.com/xue-pai/UltraGCN",
             "contr": "Reported by UltraGCN paper"
         }
     ]

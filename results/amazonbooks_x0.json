@@ -9,7 +9,7 @@
             "ndcg_50": "0.0061",
             "hit_rate_20": "0.0419",
             "hit_rate_50": "0.0764",
-            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/ItemPop/ItemPop_amazonbooks_x0.md",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/ItemPop/ItemPop_amazonbooks_x0.md",
             "contr": "Kelong Mao"
         },
         {
@@ -22,7 +22,7 @@
             "ndcg_50": "0.0771",
             "hit_rate_20": "0.3765",
             "hit_rate_50": "0.5234",
-            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/ItemKNN/ItemKNN_amazonbooks_x0.md",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/ItemKNN/ItemKNN_amazonbooks_x0.md",
             "contr": "Jinpeng Wang"
         }, {
             "year": "2009",
@@ -34,7 +34,7 @@
             "ndcg_50": "0.0380",
             "hit_rate_20": "0.2103",
             "hit_rate_50": "0.3530",
-            "link": "",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/MF_BPR/MF_BPR_amazoonbooks_x0.json",
             "contr": "XUEPAI"
         }, {
             "year": "2011",
@@ -46,7 +46,7 @@
             "ndcg_50": "0.0791",
             "hit_rate_20": "0.3873",
             "hit_rate_50": "0.5472",
-            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/SLIM/SLIM_amazonbooks_x0.md",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/SLIM/SLIM_amazonbooks_x0.md",
             "contr": "Kelong Mao"
         }, {
             "year": "2017",
@@ -70,7 +70,7 @@
             "ndcg_50": "0.0361",
             "hit_rate_20": "0.1897",
             "hit_rate_50": "0.3192",
-            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/Item2Vec/Item2Vec_amazonbooks_x0.md",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/Item2Vec/Item2Vec_amazonbooks_x0.md",
             "contr": "Yi Li"
         }, {
             "year": "2016",
@@ -106,7 +106,7 @@
             "ndcg_50": "0.0591",
             "hit_rate_20": "0.2840",
             "hit_rate_50": "0.4410",
-            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/CML/CML_amazonbooks_x0.md",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/CML/CML_amazonbooks_x0.md",
             "contr": "Jinpeng Wang"
         }, {
             "year": "2018",
@@ -226,7 +226,7 @@
             "ndcg_50": "0.0744",
             "hit_rate_20": "0.3710",
             "hit_rate_50": "0.5293",
-            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/EASE_r/EASE_amazonbooks_x0.md",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/EASE_r/EASE_amazonbooks_x0.md",
             "contr": "XUEPAI"
         }, {
             "year": "2020",
@@ -238,7 +238,7 @@
             "ndcg_50": "0.0404",
             "hit_rate_20": "0.2187",
             "hit_rate_50": "0.3649",
-            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/ENMF/ENMF_amazonbooks_x0.md",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/ENMF/ENMF_amazonbooks_x0.md",
             "contr": "JinPeng Wang"
         },
         {
@@ -290,7 +290,7 @@
             "ndcg_50": "0.0461",
             "hit_rate_20": "0.2423",
             "hit_rate_50": "0.4019",
-            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/LightGCN/LightGCN_TF_amazonbooks_x0.md",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/LightGCN/LightGCN_TF_amazonbooks_x0.md",
             "contr": "Yi Li"
         },
         {
@@ -342,7 +342,7 @@
             "ndcg_50": "0.062420",
             "hit_rate_20": "0.303007",
             "hit_rate_50": "0.455727",
-            "link": "",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/SimpleX/SimpleX_amazoonbooks_x0.json",
             "contr": "Reported by SimpleX paper"
         },
         {
@@ -355,7 +355,7 @@
             "ndcg_50": "",
             "hit_rate_20": "",
             "hit_rate_50": "",
-            "link": "",
+            "link": "https://github.com/xue-pai/UltraGCN",
             "contr": "Reported by UltraGCN paper"
         }
     ]
