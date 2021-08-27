@@ -251,6 +251,17 @@
             "company": "Huawei",
             "available": "N",
             "tags": "Graph-based"
+        },
+        {
+            "year": "2020",
+            "pub": "SIGIR'20",
+            "model": "DGCF",
+            "paper": "Disentangled Graph Collaborative Filtering",
+            "authors": "Xiang Wang, Hongye Jin, An Zhang, Xiangnan He, Tong Xu, Tat-Seng Chua",
+            "link": "https://arxiv.org/abs/2007.01764",
+            "company": "",
+            "available": "N",
+            "tags": "Graph-based"
         }
     ]
 }
