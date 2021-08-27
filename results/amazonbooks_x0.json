@@ -252,6 +252,97 @@
             "hit_rate_50": "0.3649",
             "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/ENMF/ENMF_amazonbooks_x0.md",
             "contr": "JinPeng Wang"
+        },
+        {
+            "year": "2020",
+            "pub": "AAAI'20",
+            "model": "LR-GCCF",
+            "recall_20": "0.0335",
+            "recall_50": "",
+            "ndcg_20": "0.0265",
+            "ndcg_50": "",
+            "hit_rate_20": "0.0349",
+            "hit_rate_50": "",
+            "link": "",
+            "contr": "Yi Li"
+        },
+        {
+            "year": "2020",
+            "pub": "SIGIR'20",
+            "model": "NIA-GCN",
+            "recall_20": "0.0369",
+            "recall_50": "",
+            "ndcg_20": "0.0287",
+            "ndcg_50": "",
+            "hit_rate_20": "",
+            "hit_rate_50": "",
+            "link": "",
+            "contr": "Reported by NAT4Rec paper"
+        },
+        {
+            "year": "2020",
+            "pub": "SIGIR'20",
+            "model": "LightGCN",
+            "recall_20": "0.0411",
+            "recall_50": "",
+            "ndcg_20": "0.0315",
+            "ndcg_50": "",
+            "hit_rate_20": "",
+            "hit_rate_50": "",
+            "link": "",
+            "contr": "Reported by LightGCN paper"
+        },
+        {
+            "year": "SIGIR'2020",
+            "pub": "SIGIR'2020",
+            "model": "LightGCN (ours)",
+            "recall_20": "0.0411",
+            "recall_50": "0.0799",
+            "ndcg_20": "0.0318",
+            "ndcg_50": "0.0461",
+            "hit_rate_20": "0.2423",
+            "hit_rate_50": "0.4019",
+            "link": "https://github.com/xue-pai/Open-CF-Benchmark/blob/master/benchmarks/LightGCN/LightGCN_TF_amazonbooks_x0.md",
+            "contr": "Yi Li"
+        },
+        {
+            "year": "2020",
+            "pub": "SIGIR'20",
+            "model": "DGCF",
+            "recall_20": "0.0422",
+            "recall_50": "",
+            "ndcg_20": "0.0324",
+            "ndcg_50": "",
+            "hit_rate_20": "",
+            "hit_rate_50": "",
+            "link": "",
+            "contr": "Reported by DGCF paper"
+        },
+        {
+            "year": "2020",
+            "pub": "Arixv'20",
+            "model": "NGAT4Rec",
+            "recall_20": "0.0457",
+            "recall_50": "",
+            "ndcg_20": "0.0358",
+            "ndcg_50": "",
+            "hit_rate_20": "",
+            "hit_rate_50": "",
+            "link": "",
+            "contr": "Reported by NAT4Rec paper"
+        },
+        {
+            "year": "2020",
+            "pub": "Arixv'20",
+            "model": "SGL-ED",
+            "recall_20": "0.0478",
+            "recall_50": "",
+            "ndcg_20": "0.0379",
+            "ndcg_50": "",
+            "hit_rate_20": "",
+            "hit_rate_50": "",
+            "link": "",
+            "contr": "Reported by SGL-ED paper"
         }
     ]
 }
