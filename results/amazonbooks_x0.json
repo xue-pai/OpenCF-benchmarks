@@ -1,0 +1,30 @@
+{
+    "data": [{
+            "year": "2007",
+            "pub": "WWW'07",
+            "model": "LR",
+            "recall_20": "0.3815",
+            "recall_50": "0.0000",
+            "ndcg_20": "0.3815",
+            "ndcg_50": "0.3815",
+            "hit_rate_20": "0.3815",
+            "hit_rate_50": "0.3815",
+            "link": "https://xx",
+            "contr": "jimzhu"
+        },
+        {
+            "year": "2007",
+            "pub": "WWW'07",
+            "model": "LR",
+            "recall_20": "0.3815",
+            "recall_50": "0.0000",
+            "ndcg_20": "0.3815",
+            "ndcg_50": "0.3815",
+            "hit_rate_20": "0.3815",
+            "hit_rate_50": "0.3815",
+            "link": "https://xx",
+            "contr": "jimzhu"
+        },
+
+    ]
+}
