@@ -262,6 +262,28 @@
             "company": "",
             "available": "N",
             "tags": "Graph-based"
+        },
+        {
+            "year": "2021",
+            "pub": "SIGIR'21",
+            "model": "SGL-ED",
+            "paper": "Self-supervised Graph Learning for Recommendation",
+            "authors": "Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian, Xing Xie",
+            "link": "https://arxiv.org/abs/2007.01764",
+            "company": "",
+            "available": "N",
+            "tags": "Graph-based"
+        },
+        {
+            "year": "2020",
+            "pub": "Arixv'20",
+            "model": "NGAT4Rec",
+            "paper": "NGAT4Rec: Neighbor-Aware Graph Attention Network For Recommendation",
+            "authors": "Jinbo Song, Chao Chang, Fei Sun, Xinbo Song, Peng Jiang",
+            "link": "https://arxiv.org/abs/2010.12256v2",
+            "company": "Kuaishou,Alibaba",
+            "available": "N",
+            "tags": ""
         }
     ]
 }
