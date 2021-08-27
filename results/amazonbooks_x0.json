@@ -82,7 +82,7 @@
             "ndcg_50": "0.0545",
             "hit_rate_20": "0.2757",
             "hit_rate_50": "0.4354",
-            "link": "",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/YoutubeNet/YoutubeNet_amazonbooks_x0.md",
             "contr": "XUEPAI"
         }, {
             "year": "2017",
@@ -336,14 +336,14 @@
             "year": "2021",
             "pub": "CIKM'21",
             "model": "SimpleX",
-            "recall_20": "0.058341",
-            "recall_50": "0.100549",
-            "ndcg_20": "0.046792",
-            "ndcg_50": "0.062420",
-            "hit_rate_20": "0.303007",
-            "hit_rate_50": "0.455727",
+            "recall_20": "0.0583",
+            "recall_50": "0.1005",
+            "ndcg_20": "0.0468",
+            "ndcg_50": "0.0624",
+            "hit_rate_20": "0.3030",
+            "hit_rate_50": "0.4557",
             "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/SimpleX/SimpleX_amazoonbooks_x0.json",
-            "contr": "Reported by SimpleX paper"
+            "contr": "XUEPAI"
         },
         {
             "year": "2021",
@@ -356,7 +356,21 @@
             "hit_rate_20": "",
             "hit_rate_50": "",
             "link": "https://github.com/xue-pai/UltraGCN",
-            "contr": "Reported by UltraGCN paper"
+            "contr": "XUEPAI"
+        },
+        {
+            "year": "2021",
+            "pub": "CIKM'21",
+            "model": "MF-CCL",
+            "recall_20": "0.0559",
+            "recall_50": "0.0961",
+            "ndcg_20": "0.0447",
+            "ndcg_50": "0.0596",
+            "hit_rate_20": "0.2943",
+            "hit_rate_50": "0.4427",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/MF_CCL/MF_CCL_amazonbooks_x0.md",
+            "contr": "XUEPAI"
         }
+
     ]
 }

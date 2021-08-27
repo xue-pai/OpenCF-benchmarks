@@ -146,14 +146,14 @@
             "year": "2016",
             "pub": "RecSys'16",
             "model": "YoutubeNet",
-            "recall_20": "0.0686",
-            "recall_50": "",
-            "ndcg_20": "0.0567",
-            "ndcg_50": "",
-            "hit_rate_20": "",
-            "hit_rate_50": "",
-            "link": "",
-            "contr": "Kelong Mao"
+            "recall_20": "0.068646",
+            "recall_50": "0.131169",
+            "ndcg_20": "0.056720",
+            "ndcg_50": "0.079797",
+            "hit_rate_20": "0.410004",
+            "hit_rate_50": "0.606006",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/YoutubeNet/YoutubeNet_yelp18_x0.md",
+            "contr": "XUEPAI"
         },
         {
             "year": "2017",
@@ -348,7 +348,7 @@
             "hit_rate_20": "0.415151",
             "hit_rate_50": "0.608753",
             "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/SimpleX/SimpleX_yelp18_x0.json",
-            "contr": "Reported by SimpleX paper"
+            "contr": "XUEPAI"
         },
         {
             "year": "2021",
@@ -361,7 +361,21 @@
             "hit_rate_20": "",
             "hit_rate_50": "",
             "link": "https://github.com/xue-pai/UltraGCN",
-            "contr": "Reported by UltraGCN paper"
+            "contr": "XUEPAI"
+        },
+        {
+            "year": "2021",
+            "pub": "CIKM'21",
+            "model": "MF-CCL",
+            "recall_20": "0.069846",
+            "recall_50": "0.132210",
+            "ndcg_20": "0.057244",
+            "ndcg_50": "0.080330",
+            "hit_rate_20": "0.413288",
+            "hit_rate_50": "0.610553",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/MF_CCL/MF_CCL_yelp18_x0.md",
+            "contr": "XUEPAI"
         }
+
     ]
 }

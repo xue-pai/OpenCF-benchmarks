@@ -160,11 +160,11 @@
             "pub": "RecSys'16",
             "model": "YoutubeNet",
             "recall_20": "0.1754",
-            "recall_50": "",
+            "recall_50": "0.2711",
             "ndcg_20": "0.1473",
-            "ndcg_50": "",
-            "hit_rate_20": "",
-            "hit_rate_50": "",
+            "ndcg_50": "0.1772",
+            "hit_rate_20": "0.5628",
+            "hit_rate_50": "0.6978",
             "link": "",
             "contr": "Kelong Mao"
         },
@@ -322,7 +322,7 @@
             "hit_rate_20": "0.592705",
             "hit_rate_50": "0.727242",
             "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/SimpleX/SimpleX_gowalla_x0.json",
-            "contr": "Reported by SimpleX paper"
+            "contr": "XUEPAI"
         },
         {
             "year": "2021",
@@ -335,7 +335,20 @@
             "hit_rate_20": "",
             "hit_rate_50": "",
             "link": "https://github.com/xue-pai/UltraGCN",
-            "contr": "Reported by UltraGCN paper"
+            "contr": "XUEPAI"
+        },
+        {
+            "year": "2021",
+            "pub": "CIKM'21",
+            "model": "MF-CCL",
+            "recall_20": "0.183730",
+            "recall_50": "0.287096",
+            "ndcg_20": "0.149257",
+            "ndcg_50": "0.181573",
+            "hit_rate_20": "0.584031",
+            "hit_rate_50": "0.724262",
+            "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/MF_CCL/MF_CCL_gowalla_x0.md",
+            "contr": "XUEPAI"
         }
     ]
 }
