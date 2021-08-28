@@ -151,7 +151,7 @@
             "link": "https://ieeexplore.ieee.org/abstract/document/6137254",
             "company": "",
             "available": "N",
-            "tags": ""
+            "tags": "#Autoencoder-based"
         },
         {
             "year": "2016",
@@ -162,7 +162,7 @@
             "link": "https://dl.acm.org/doi/10.1145/2959100.2959190",
             "company": "Google",
             "available": "N",
-            "tags": ""
+            "tags": "#Two-tower"
         },
         {
             "year": "2007",
@@ -184,7 +184,7 @@
             "link": "https://arxiv.org/abs/1905.08108",
             "company": "",
             "available": "N",
-            "tags": "#Graph-based"
+            "tags": "#GNN-based"
         },
         {
             "year": "2019",
@@ -195,7 +195,7 @@
             "link": "https://arxiv.org/abs/1905.03375",
             "company": "Netflix",
             "available": "N",
-            "tags": ""
+            "tags": "#Autoencoder-based"
         },
         {
             "year": "2020",
@@ -206,7 +206,7 @@
             "link": "https://ojs.aaai.org/index.php/AAAI/article/view/5330",
             "company": "",
             "available": "N",
-            "tags": "#Graph-based"
+            "tags": "#GNN-based"
         },
         {
             "year": "2020",
@@ -217,7 +217,7 @@
             "link": "https://dl.acm.org/doi/abs/10.1145/3397271.3401063",
             "company": "Kuaishou",
             "available": "N",
-            "tags": "#Graph-based"
+            "tags": "#GNN-based"
         },
         {
             "year": "2020",
@@ -251,7 +251,7 @@
             "link": "",
             "company": "Huawei",
             "available": "N",
-            "tags": "#Graph-based"
+            "tags": "#GNN-based"
         },
         {
             "year": "2020",
@@ -262,7 +262,7 @@
             "link": "https://arxiv.org/abs/2007.01764",
             "company": "",
             "available": "N",
-            "tags": "#Graph-based"
+            "tags": "#GNN-based"
         },
         {
             "year": "2021",
@@ -273,7 +273,7 @@
             "link": "https://arxiv.org/abs/2010.10783",
             "company": "",
             "available": "N",
-            "tags": "#Graph-based"
+            "tags": "#GNN-based"
         },
         {
             "year": "2020",
@@ -364,17 +364,6 @@
             "tags": "#Two-tower"
         },
         {
-            "year": "2018",
-            "pub": "KDD'18",
-            "model": "GC-MC",
-            "paper": "Graph Convolutional Matrix Completion",
-            "authors": "Rianne van den Berg, Thomas N. Kipf, Max Welling",
-            "link": "https://arxiv.org/abs/1706.02263",
-            "company": "",
-            "available": "N",
-            "tags": "#GNN-based"
-        },
-        {
             "year": "2021",
             "pub": "CIKM'21",
             "model": "GF-CF",
@@ -384,6 +373,28 @@
             "company": "Microsoft",
             "available": "N",
             "tags": "#GNN-based"
+        },
+        {
+            "year": "2016",
+            "pub": "MLSP'16",
+            "model": "Item2Vec",
+            "paper": "Item2Vec: Neural Item Embedding for Collaborative Filtering",
+            "authors": "Oren Barkan, Noam Koenigstein",
+            "link": "https://arxiv.org/abs/1603.04259",
+            "company": "Microsoft",
+            "available": "N",
+            "tags": ""
+        },
+        {
+            "year": "2020",
+            "pub": "SIGIR'20",
+            "model": "NIA-GCN",
+            "paper": "Neighbor Interaction Aware Graph Convolution Networks for Recommendation",
+            "authors": "Jianing Sun, Yingxue Zhang, Wei Guo, Huifeng Guo, Ruiming Tang, Xiuqiang He, Chen Ma, Mark Coates",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3397271.3401123",
+            "company": "Huawei",
+            "available": "N",
+            "tags": "GNN-based"
         }
     ]
 }
