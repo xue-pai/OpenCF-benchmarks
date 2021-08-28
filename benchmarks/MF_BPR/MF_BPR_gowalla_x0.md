@@ -39,7 +39,7 @@ Gowalla follows the data split and preprocessing steps in NGCF and LightGCN. We 
     ```
 ### Results
 ```
-2021-01-03 18:00:56,225 P3152 INFO [Metrics] Recall(k=20): 0.175436 - Recall(k=50): 0.271103 - NDCG(k=20): 0.147322 - NDCG(k=50): 0.177231 - HitRate(k=20): 0.562797 - HitRate(k=50): 0.697836
+2021-01-02 20:38:17,007 P40291 INFO [Metrics] Recall(k=20): 0.162737 - Recall(k=50): 0.253303 - NDCG(k=20): 0.137805 - NDCG(k=50): 0.166195 - HitRate(k=20): 0.554391 - HitRate(k=50): 0.693616
 ```
 
 
