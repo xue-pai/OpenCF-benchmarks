@@ -349,6 +349,18 @@
             "hit_rate_50": "0.724262",
             "link": "https://github.com/xue-pai/Open-Match-Benchmark/blob/master/benchmarks/MF_CCL/MF_CCL_gowalla_x0.md",
             "contr": "XUEPAI"
-        }
+        }, {
+            "year": "2018",
+            "pub": "ICLR'18",
+            "model": "GAT",
+            "recall_20": "0.1501",
+            "recall_50": "",
+            "ndcg_20": "0.1233",
+            "ndcg_50": "",
+            "hit_rate_20": "",
+            "hit_rate_50": "",
+            "link": "",
+            "contr": "Kelong Mao"
+        },
     ]
 }
