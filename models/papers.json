@@ -318,6 +318,72 @@
             "company": "",
             "available": "N",
             "tags": ""
+        },
+        {
+            "year": "2021",
+            "pub": "CIKM'21",
+            "model": "MF-CCL",
+            "paper": "SimpleX: A Simple and Strong Baseline for Collaborative Filtering",
+            "authors": "Kelong Mao, Jieming Zhu, Jinpeng Wang, Quanyu Dai, Zhenhua Dong, Xi Xiao, Xiuqiang He",
+            "link": "",
+            "company": "Huawei",
+            "available": "N",
+            "tags": "#CF-based"
+        },
+        {
+            "year": "2018",
+            "pub": "WWW'18",
+            "model": "Mult-VAE",
+            "paper": "Variational Autoencoders for Collaborative Filtering",
+            "authors": "Dawen Liang, Rahul G. Krishnan, Matthew D. Hoffman, Tony Jebara",
+            "link": "https://dl.acm.org/doi/10.1145/3178876.3186150",
+            "company": "Netflix,Google",
+            "available": "N",
+            "tags": "#Autoencoder-based"
+        },
+        {
+            "year": "2019",
+            "pub": "NeurIPS'19",
+            "model": "MacridVAE",
+            "paper": "Learning Disentangled Representations for Recommendation",
+            "authors": "Jianxin Ma, Chang Zhou, Peng Cui, Hongxia Yang, Wenwu Zhu",
+            "link": "https://papers.nips.cc/paper/2019/file/a2186aa7c086b46ad4e8bf81e2a3a19b-Paper.pdf",
+            "company": "Alibaba",
+            "available": "N",
+            "tags": "#Autoencoder-based"
+        },
+        {
+            "year": "2014",
+            "pub": "WWW'14",
+            "model": "DSSM",
+            "paper": "Learning Semantic Representations Using Convolutional Neural Networks for Web Search",
+            "authors": "Yelong Shen, Xiaodong He, Jianfeng Gao, Li Deng, Grégoire Mesnil",
+            "link": "https://dl.acm.org/doi/abs/10.1145/2567948.2577348",
+            "company": "Microsoft",
+            "available": "N",
+            "tags": "#Two-tower"
+        },
+        {
+            "year": "2018",
+            "pub": "KDD'18",
+            "model": "GC-MC",
+            "paper": "Graph Convolutional Matrix Completion",
+            "authors": "Rianne van den Berg, Thomas N. Kipf, Max Welling",
+            "link": "https://arxiv.org/abs/1706.02263",
+            "company": "",
+            "available": "N",
+            "tags": "#GNN-based"
+        },
+        {
+            "year": "2021",
+            "pub": "CIKM'21",
+            "model": "GF-CF",
+            "paper": "How Powerful is Graph Convolution for Recommendation?",
+            "authors": "Yifei Shen, Yongji Wu, Yao Zhang, Caihua Shan, Jun Zhang, Khaled B. Letaief, Dongsheng Li",
+            "link": "https://arxiv.org/abs/2108.07567",
+            "company": "Microsoft",
+            "available": "N",
+            "tags": "#GNN-based"
         }
     ]
 }
