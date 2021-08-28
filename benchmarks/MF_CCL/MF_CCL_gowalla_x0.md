@@ -28,15 +28,8 @@ Gowalla follows the data split and preprocessing steps in NGCF and LightGCN. We 
 
 
 ### Code
-1. Downalod the dataset from LightGCN repo and run the preprocessing script for format transformation
-    ```python
-    cd data/Gowalla/gowalla_x0/
-    python DEEM_data_process.py
-    ```
-2. Set the config file and reproduce the result.
-    ```python
-    python benchmark.py
-    ```
+The implementation code is already available at https://github.com/xue-pai/DEEM. 
+Please refer to the configuration file(https://github.com/xue-pai/DEEM/blob/master/benchmarks/Yelp18/SimpleX_yelp18_x0/SimpleX_yelp18_x0_tuner_config.yaml).
 ### Results
 ```
 2021-01-12 10:58:57,677 P43946 INFO [Metrics] Recall(k=20): 0.183730 - Recall(k=50): 0.287096 - NDCG(k=20): 0.149257 - NDCG(k=50): 0.181573 - HitRate(k=20): 0.584031 - HitRate(k=50): 0.724262

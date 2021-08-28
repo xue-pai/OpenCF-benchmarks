@@ -28,15 +28,8 @@ amazonbooks_x0 follows the data split and preprocessing steps in NGCF and LightG
 
 
 ### Code
-1. Downalod the dataset from LightGCN repo and run the preprocessing script for format transformation
-    ```python
-    cd data/AmazonBooks/amazonbooks_x0
-    python DEEM_data_process.py
-    ```
-2. Set the config file and reproduce the result.
-    ```python
-    python benchmark.py
-    ```
+The implementation code is already available at https://github.com/xue-pai/DEEM. 
+Please refer to the configuration file(https://github.com/xue-pai/DEEM/blob/master/benchmarks/Yelp18/SimpleX_yelp18_x0/SimpleX_yelp18_x0_tuner_config.yaml).
 ### Results
 ```
 2021-01-13 06:08:59,104 P17485 INFO [Metrics] Recall(k=20): 0.055937 - Recall(k=50): 0.096077 - NDCG(k=20): 0.044708 - NDCG(k=50): 0.059571 - HitRate(k=20): 0.294288 - HitRate(k=50): 0.442676

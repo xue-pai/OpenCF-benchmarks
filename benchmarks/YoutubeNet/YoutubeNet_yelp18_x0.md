@@ -28,15 +28,8 @@ Yelp18 follows the data split and preprocessing steps in NGCF and LightGCN. We d
 
 
 ### Code
-1. Downalod the dataset from LightGCN repo and run the preprocessing script for format transformation
-    ```python
-    cd data/Yelp18/yelp18_x0
-    python DEEM_data_process.py
-    ```
-2. Set the config file and reproduce the result.
-    ```python
-    python benchmark.py
-    ```
+The implementation code is already available at https://github.com/xue-pai/DEEM. 
+Please refer to the configuration file(https://github.com/xue-pai/DEEM/blob/master/benchmarks/Yelp18/SimpleX_yelp18_x0/SimpleX_yelp18_x0_tuner_config.yaml).
 ### Results
 ```
 2021-03-07 23:45:09,460 P22674 INFO [Metrics] Recall(k=20): 0.068646 - Recall(k=50): 0.131169 - NDCG(k=20): 0.056720 - NDCG(k=50): 0.079797 - HitRate(k=20): 0.410004 - HitRate(k=50): 0.606006
