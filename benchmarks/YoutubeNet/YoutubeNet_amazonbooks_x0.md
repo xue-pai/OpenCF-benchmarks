@@ -38,13 +38,13 @@ amazonbooks_x0 follows the data split and preprocessing steps in NGCF and LightG
     python benchmark.py
     ```
 ### Results
-```python
+```
 2021-01-03 19:35:34,704 P2834 INFO [Metrics] Recall(k=20): 0.050157 - Recall(k=50): 0.092365 - NDCG(k=20): 0.038842 - NDCG(k=50): 0.054534 - HitRate(k=20): 0.275708 - HitRate(k=50): 0.435419
 ```
 
 
 ### Logs
-```python
+```
 2021-01-03 17:20:33,125 P2834 INFO Set up feature encoder...
 2021-01-03 17:20:33,125 P2834 INFO Reading file: ../data/AmazonBooks/amazonbooks_x0/train.csv
 2021-01-03 17:20:58,250 P2834 INFO Reading file: ../data/AmazonBooks/amazonbooks_x0/item_corpus.csv

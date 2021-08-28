@@ -38,13 +38,13 @@ amazonbooks_x0 follows the data split and preprocessing steps in NGCF and LightG
     python benchmark.py
     ```
 ### Results
-```python
+```
 2021-01-14 14:57:03,807 P50829 INFO [Metrics] Recall(k=20): 0.058341 - Recall(k=50): 0.100549 - NDCG(k=20): 0.046792 - NDCG(k=50): 0.062420 - HitRate(k=20): 0.303007 - HitRate(k=50): 0.455727
 ```
 
 
 ### Logs
-```python
+```
 2021-01-14 10:28:10,672 P50829 INFO Set up feature encoder...
 2021-01-14 10:28:10,672 P50829 INFO Load feature_map from json: ../data/AmazonBooks/amazonbooks_x0_fea71f7d/feature_map.json
 2021-01-14 10:28:14,431 P50829 INFO Total number of parameters: 9235776.

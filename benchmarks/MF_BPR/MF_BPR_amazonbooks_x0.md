@@ -226,7 +226,7 @@ amazonbooks_x0 follows the data split and preprocessing steps in NGCF and LightG
 2021-01-02 20:38:37,514 P40150 INFO [Metrics] Recall(k=20): 0.032808 - Recall(k=50): 0.065488 - NDCG(k=20): 0.025332 - NDCG(k=50): 0.037456 - HitRate(k=20): 0.206786 - HitRate(k=50): 0.352970
 2021-01-02 20:38:37,528 P40150 INFO Monitor(max) STOP: 0.032808 !
 2021-01-02 20:38:37,528 P40150 INFO Reduce learning rate on plateau: 0.000100
-2021-01-02 20:38:37,529 P40150 INFO Load best model: /home/zhujieming/zhujieming/DEEM_20201231_WWW/benchmarks/AmazonBooks/MF-BPR_amazonbooks_x0/amazonbooks_x0_37e049e0/MF_amazonbooks_x0_001_a85b5723_model.ckpt
+2021-01-02 20:38:37,529 P40150 INFO Load best model:  MF_amazonbooks_x0_001_a85b5723_model.ckpt
 2021-01-02 20:38:37,555 P40150 INFO --- 2325/2325 batches finished ---
 2021-01-02 20:38:37,624 P40150 INFO Train loss: 0.024252
 2021-01-02 20:38:37,624 P40150 INFO ************ Epoch=19 end ************
@@ -291,7 +291,7 @@ amazonbooks_x0 follows the data split and preprocessing steps in NGCF and LightG
 2021-01-02 20:50:19,847 P40150 INFO [Metrics] Recall(k=20): 0.033739 - Recall(k=50): 0.066187 - NDCG(k=20): 0.026083 - NDCG(k=50): 0.038121 - HitRate(k=20): 0.209692 - HitRate(k=50): 0.353407
 2021-01-02 20:50:19,860 P40150 INFO Monitor(max) STOP: 0.033739 !
 2021-01-02 20:50:19,861 P40150 INFO Reduce learning rate on plateau: 0.000010
-2021-01-02 20:50:19,861 P40150 INFO Load best model: /home/zhujieming/zhujieming/DEEM_20201231_WWW/benchmarks/AmazonBooks/MF-BPR_amazonbooks_x0/amazonbooks_x0_37e049e0/MF_amazonbooks_x0_001_a85b5723_model.ckpt
+2021-01-02 20:50:19,861 P40150 INFO Load best model:  MF_amazonbooks_x0_001_a85b5723_model.ckpt
 2021-01-02 20:50:19,890 P40150 INFO --- 2325/2325 batches finished ---
 2021-01-02 20:50:19,942 P40150 INFO Train loss: 0.022243
 2021-01-02 20:50:19,942 P40150 INFO ************ Epoch=26 end ************
@@ -302,7 +302,7 @@ amazonbooks_x0 follows the data split and preprocessing steps in NGCF and LightG
 2021-01-02 20:51:47,291 P40150 INFO [Metrics] Recall(k=20): 0.033757 - Recall(k=50): 0.066092 - NDCG(k=20): 0.026065 - NDCG(k=50): 0.038057 - HitRate(k=20): 0.210091 - HitRate(k=50): 0.353160
 2021-01-02 20:51:47,299 P40150 INFO Monitor(max) STOP: 0.033757 !
 2021-01-02 20:51:47,300 P40150 INFO Reduce learning rate on plateau: 0.000001
-2021-01-02 20:51:47,300 P40150 INFO Load best model: /home/zhujieming/zhujieming/DEEM_20201231_WWW/benchmarks/AmazonBooks/MF-BPR_amazonbooks_x0/amazonbooks_x0_37e049e0/MF_amazonbooks_x0_001_a85b5723_model.ckpt
+2021-01-02 20:51:47,300 P40150 INFO Load best model:  MF_amazonbooks_x0_001_a85b5723_model.ckpt
 2021-01-02 20:51:47,324 P40150 INFO --- 2325/2325 batches finished ---
 2021-01-02 20:51:47,366 P40150 INFO Train loss: 0.022153
 2021-01-02 20:51:47,366 P40150 INFO ************ Epoch=27 end ************
@@ -313,12 +313,12 @@ amazonbooks_x0 follows the data split and preprocessing steps in NGCF and LightG
 2021-01-02 20:53:15,441 P40150 INFO [Metrics] Recall(k=20): 0.033764 - Recall(k=50): 0.066028 - NDCG(k=20): 0.026070 - NDCG(k=50): 0.038033 - HitRate(k=20): 0.210357 - HitRate(k=50): 0.353103
 2021-01-02 20:53:15,450 P40150 INFO Monitor(max) STOP: 0.033764 !
 2021-01-02 20:53:15,450 P40150 INFO Reduce learning rate on plateau: 0.000001
-2021-01-02 20:53:15,450 P40150 INFO Load best model: /home/zhujieming/zhujieming/DEEM_20201231_WWW/benchmarks/AmazonBooks/MF-BPR_amazonbooks_x0/amazonbooks_x0_37e049e0/MF_amazonbooks_x0_001_a85b5723_model.ckpt
+2021-01-02 20:53:15,450 P40150 INFO Load best model:  MF_amazonbooks_x0_001_a85b5723_model.ckpt
 2021-01-02 20:53:15,474 P40150 INFO Early stopping at epoch=28
 2021-01-02 20:53:15,474 P40150 INFO --- 2325/2325 batches finished ---
 2021-01-02 20:53:15,554 P40150 INFO Train loss: 0.022166
 2021-01-02 20:53:15,554 P40150 INFO Training finished.
-2021-01-02 20:53:15,554 P40150 INFO Load best model: /home/zhujieming/zhujieming/DEEM_20201231_WWW/benchmarks/AmazonBooks/MF-BPR_amazonbooks_x0/amazonbooks_x0_37e049e0/MF_amazonbooks_x0_001_a85b5723_model.ckpt
+2021-01-02 20:53:15,554 P40150 INFO Load best model:  MF_amazonbooks_x0_001_a85b5723_model.ckpt
 2021-01-02 20:53:15,593 P40150 INFO ****** Train/validation evaluation ******
 2021-01-02 20:53:15,593 P40150 INFO --- Start evaluation ---
 2021-01-02 20:53:16,177 P40150 INFO Evaluating metrics for 52639 users...

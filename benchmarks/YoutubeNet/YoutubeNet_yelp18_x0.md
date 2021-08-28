@@ -38,13 +38,13 @@ Yelp18 follows the data split and preprocessing steps in NGCF and LightGCN. We d
     python benchmark.py
     ```
 ### Results
-```python
+```
 2021-03-07 23:45:09,460 P22674 INFO [Metrics] Recall(k=20): 0.068646 - Recall(k=50): 0.131169 - NDCG(k=20): 0.056720 - NDCG(k=50): 0.079797 - HitRate(k=20): 0.410004 - HitRate(k=50): 0.606006
 ```
 
 
 ### Logs
-```python
+```
 2021-03-07 23:16:20,694 P22674 INFO Set up feature encoder...
 2021-03-07 23:16:20,694 P22674 INFO Load feature_map from json: ../data/Yelp18/yelp18_x0_5c65fb11/feature_map.json
 2021-03-07 23:16:24,438 P22674 INFO Total number of parameters: 2435200.

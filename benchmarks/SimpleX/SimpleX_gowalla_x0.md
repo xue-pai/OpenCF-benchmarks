@@ -38,13 +38,13 @@ Gowalla follows the data split and preprocessing steps in NGCF and LightGCN. We 
     python benchmark.py
     ```
 ### Results
-```python
+```
 2021-01-15 19:58:48,489 P49679 INFO [Metrics] Recall(k=20): 0.187213 - Recall(k=50): 0.287394 - NDCG(k=20): 0.155688 - NDCG(k=50): 0.186816 - HitRate(k=20): 0.592705 - HitRate(k=50): 0.727242
 ```
 
 
 ### Logs
-```python
+```
 2021-01-15 17:07:09,228 P49679 INFO Set up feature encoder...
 2021-01-15 17:07:09,229 P49679 INFO Load feature_map from json: ../data/Gowalla/gowalla_x0_52a9ab28/feature_map.json
 2021-01-15 17:07:13,664 P49679 INFO Total number of parameters: 7164992.
